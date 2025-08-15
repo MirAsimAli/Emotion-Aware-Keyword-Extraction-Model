@@ -16,20 +16,6 @@ This dual approach enables **Explainable AI (XAI)** for sentiment analysis, maki
 - Built-in evaluation metrics: Accuracy, Precision, Recall, F1-score.
 - Saves fine-tuned model and tokenizer for deployment.
 
----
-
-## 📂 Project Structure
-```
-Emotion-Aware-Keyword-Extraction-Model/
-│
-├── emotion_model/             # Saved trained model & tokenizer
-├── train_dataset.csv          # Training dataset
-├── test_dataset.csv           # Testing dataset
-├── train.py                   # Training script for emotion classification
-├── keyword_extraction.py      # Script for extracting emotion keywords
-├── requirements.txt           # Python dependencies
-└── README.md                  # Project documentation
-```
 
 ---
 
